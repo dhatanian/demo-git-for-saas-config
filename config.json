@@ -1,10 +1,10 @@
 {
-  'usersCanInviteOthers' : 'true',
-  'usersCanModifyTheySettings' : 'true',
-  'authenticationSolutions' : ['Google', 'LinkedIn'],
-  'partners' :
+  "usersCanInviteOthers" : "true",
+  "usersCanModifyTheySettings" : "false",
+  "authenticationSolutions" : ["Google", "LinkedIn"],
+  "partners" :
   [
     {
-      'id':'acmeinc',
-      'partnerToken':'#Dcidm#45EERRTfCVG7aasdFADF76',
-      'name':'ACME Inc.'
+      "id":"acmeinc",
+      "partnerToken":"#Dcidm#45EERRTfCVG7aasdFADF76",
+      "name":"ACME Inc."
