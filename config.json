@@ -1,6 +1,6 @@
 {
   "usersCanInviteOthers" : "true",
-  "usersCanModifyTheySettings" : "true",
+  "usersCanModifyTheirSettings" : "false",
   "authenticationSolutions" : ["Google", "LinkedIn"],
   "partners" :
   [
